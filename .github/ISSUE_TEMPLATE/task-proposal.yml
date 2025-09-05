@@ -1,6 +1,5 @@
 name: 📋 Task
 description: Propose a piece of work or activity for the project.
-type: task
 body:
   # Greetings
   - type: markdown
