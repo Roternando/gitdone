@@ -1,6 +1,5 @@
 name: ✨ Feature request
 description: Suggest an idea or possible new feature for this project.
-type: feature
 labels: "✨ Enhancement"
 body:
   # Greetings
